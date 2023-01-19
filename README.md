@@ -10,6 +10,7 @@
 ## KNOW BEFORE YOU PLAY
 
 Requires Python3 and PyGame installation
+
 Install PyGame: https://www.pygame.org/wiki/GettingStarted
 
 Controls:
